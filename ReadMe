@@ -1,1 +1,6 @@
-The data given is non seasonal time series data. In this project 3 forecating methods are followed namely Linear Regression, Auto Regressive Integerated Moving Average (ARIMA) and Neural Networks. The models are developed and then their accuracy is compared to find the optimal model.
+The data given is non seasonal time series data. In this project 2 forecating methods are followed namely Linear Regression and Auto Regressive Integerated Moving Average (ARIMA). The models are developed and then their accuracy is compared to find the optimal model. 
+
+Results:
+Comparing the MSE values we infer that ARIMA model is better than LR model.
+MSE of ARIMA model depends on p,q,d values and optimal values of these parameters is obtained by trail and error.
+All values of p,q and d are not feasible.
