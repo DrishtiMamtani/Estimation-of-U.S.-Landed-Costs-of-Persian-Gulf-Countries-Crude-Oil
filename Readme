@@ -1,0 +1,1 @@
+The data given is non seasonal time series data. In this project 3 forecating methods are followed namely Linear Regression, Auto Regressive Integerated Moving Average (ARIMA) and Neural Networks. The models are developed and then their accuracy is compared to find the optimal model.
